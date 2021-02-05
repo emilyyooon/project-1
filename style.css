@@ -1,0 +1,48 @@
+html, body {
+  background-color: skyblue;
+  color: darkblue;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  background-color: #2C98BA;
+  padding: 20px;
+  margin: 0px;
+}
+
+body {
+  padding: 0.5rem;
+}
+
+img {
+  margin-left: 17rem;
+  margin-top: 5rem;
+}
+
+.shape {
+  border-radius: 5px;
+  height: 750px;
+  width: 1300px;
+  margin-top: -32rem;
+  margin-left: 50px;
+  background-color: #2C98BA;
+}
+
+.caption {
+  text-align: center;
+  margin-top: -5rem;
+}
+
+.paragraph {
+  margin-left: 5rem;
+  margin-right: 5rem;
+  margin-top: 8rem;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #2C98BA;
+  color: darkblue;
+  margin-top: 10rem;
+}
